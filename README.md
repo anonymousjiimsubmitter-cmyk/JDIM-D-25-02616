@@ -4,6 +4,20 @@ This code is provided for reproducibility. Please note that absolute file paths 
 ## Major Dependencies
 - Python 3
 - PyTorch
-- TensorFlow (with CUDA 9.1.1)
+- TensorFlow (with cudnn-9.3.0.75)
+- tensorflow_text
 - Scikit Learn
 - Pandas
+- json
+- sklearn
+- numpy
+- matplotlib
+- seaborn
+- timm
+- pydicom
+- PIL
+- imagecodecs
+- huggingface
+- scipy
+- statsmodels
+- scikit_posthocs
